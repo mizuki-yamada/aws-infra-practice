@@ -1,0 +1,1 @@
+# AWSではじめるインフラ構築入門をcloudformationで書いてみる試み
